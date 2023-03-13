@@ -32,3 +32,10 @@
 * завдання 3
     
     ![Task3](https://github.com/angelina-babych/Cross-Platform-Labs/blob/main/images/L1/L1T3.png)
+
+---
+
+Як завжди, всі питання ви можете задати мені у **Gitter**:
+
+[![Gitter](https://badges.gitter.im/angelina-babych/community.svg)](https://gitter.im/angelina-babych/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+ 
