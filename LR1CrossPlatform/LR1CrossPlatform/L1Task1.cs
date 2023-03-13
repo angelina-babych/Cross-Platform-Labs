@@ -26,5 +26,6 @@ while (myArray[i] >= 0 && i < n)
     i++;
 }
 Console.Write($"\nSum from the first element to first negative is: {sum}\n");
+Console.ReadKey();
 
 
