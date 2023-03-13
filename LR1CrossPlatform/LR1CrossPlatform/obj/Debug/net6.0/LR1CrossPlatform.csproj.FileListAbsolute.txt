@@ -1,0 +1,15 @@
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\bin\Debug\net6.0\LR1CrossPlatform.exe
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\bin\Debug\net6.0\LR1CrossPlatform.deps.json
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\bin\Debug\net6.0\LR1CrossPlatform.runtimeconfig.json
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\bin\Debug\net6.0\LR1CrossPlatform.dll
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\bin\Debug\net6.0\LR1CrossPlatform.pdb
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\obj\Debug\net6.0\LR1CrossPlatform.csproj.AssemblyReference.cache
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\obj\Debug\net6.0\LR1CrossPlatform.GeneratedMSBuildEditorConfig.editorconfig
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\obj\Debug\net6.0\LR1CrossPlatform.AssemblyInfoInputs.cache
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\obj\Debug\net6.0\LR1CrossPlatform.AssemblyInfo.cs
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\obj\Debug\net6.0\LR1CrossPlatform.csproj.CoreCompileInputs.cache
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\obj\Debug\net6.0\LR1CrossPlatform.dll
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\obj\Debug\net6.0\refint\LR1CrossPlatform.dll
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\obj\Debug\net6.0\LR1CrossPlatform.pdb
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\obj\Debug\net6.0\LR1CrossPlatform.genruntimeconfig.cache
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\LR1CrossPlatform\obj\Debug\net6.0\ref\LR1CrossPlatform.dll
