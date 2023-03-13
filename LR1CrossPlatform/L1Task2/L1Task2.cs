@@ -18,6 +18,7 @@ for (int i = 0; i < s.Length; i++)
         break;
     }
 }
+Console.ReadKey();
 
 
 
