@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L1Task1", "LR1CrossPlatform\L1Task1.csproj", "{137E078B-139A-4D99-82CB-696F5D4D55F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L1Task2", "L1Task2\L1Task2.csproj", "{B79800DF-E6D4-4402-9652-4E5D2CA74501}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L1Task3", "L1Task3\L1Task3.csproj", "{BD8C5572-FC37-46F1-B52E-87F5CD969AB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137E078B-139A-4D99-82CB-696F5D4D55F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137E078B-139A-4D99-82CB-696F5D4D55F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137E078B-139A-4D99-82CB-696F5D4D55F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137E078B-139A-4D99-82CB-696F5D4D55F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B79800DF-E6D4-4402-9652-4E5D2CA74501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79800DF-E6D4-4402-9652-4E5D2CA74501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79800DF-E6D4-4402-9652-4E5D2CA74501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79800DF-E6D4-4402-9652-4E5D2CA74501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8C5572-FC37-46F1-B52E-87F5CD969AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8C5572-FC37-46F1-B52E-87F5CD969AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8C5572-FC37-46F1-B52E-87F5CD969AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8C5572-FC37-46F1-B52E-87F5CD969AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A757B9B-D8D9-4516-8534-7708B30AD606}
+	EndGlobalSection
+EndGlobal
