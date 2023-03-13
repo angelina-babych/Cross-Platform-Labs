@@ -75,12 +75,12 @@
                     for (int i = 0; i < n; i++)
                         _trials[i] = OneDice();
                     hist();
-                    return;
+                    break;
                 case "2":
                     for (int i = 0; i < n; i++)
                         _trials[i] = TwoDice();
                     hist();
-                    return;
+                    break;
                 case "3":
                     Console.Write("Enter the number of dice:");
                     if (!Int32.TryParse(Console.ReadLine(), out N))
@@ -93,11 +93,12 @@
                     for (int i = 0; i < n; i++)
                         _trials[i] = NDice(N,K);
                     hist();
-                    return;
+                    break;
                 case "4":
                     Environment.Exit(0);
-                    return;
+                    break;
             }
+            Console.ReadKey();
         }
     }
 }

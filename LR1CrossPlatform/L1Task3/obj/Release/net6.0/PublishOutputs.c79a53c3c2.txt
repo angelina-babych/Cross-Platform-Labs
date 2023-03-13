@@ -1,0 +1,5 @@
+R:\KhaI-Angelok\Cross-platform\LR1-output\Task3\L1Task3.exe
+R:\KhaI-Angelok\Cross-platform\LR1-output\Task3\L1Task3.dll
+R:\KhaI-Angelok\Cross-platform\LR1-output\Task3\L1Task3.deps.json
+R:\KhaI-Angelok\Cross-platform\LR1-output\Task3\L1Task3.runtimeconfig.json
+R:\KhaI-Angelok\Cross-platform\LR1-output\Task3\L1Task3.pdb

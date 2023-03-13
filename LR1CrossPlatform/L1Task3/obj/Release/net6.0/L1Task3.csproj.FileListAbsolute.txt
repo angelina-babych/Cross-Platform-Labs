@@ -1,0 +1,15 @@
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\bin\Release\net6.0\L1Task3.exe
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\bin\Release\net6.0\L1Task3.deps.json
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\bin\Release\net6.0\L1Task3.runtimeconfig.json
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\bin\Release\net6.0\L1Task3.dll
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\bin\Release\net6.0\L1Task3.pdb
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\obj\Release\net6.0\L1Task3.csproj.AssemblyReference.cache
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\obj\Release\net6.0\L1Task3.GeneratedMSBuildEditorConfig.editorconfig
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\obj\Release\net6.0\L1Task3.AssemblyInfoInputs.cache
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\obj\Release\net6.0\L1Task3.AssemblyInfo.cs
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\obj\Release\net6.0\L1Task3.csproj.CoreCompileInputs.cache
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\obj\Release\net6.0\L1Task3.dll
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\obj\Release\net6.0\refint\L1Task3.dll
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\obj\Release\net6.0\L1Task3.pdb
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\obj\Release\net6.0\L1Task3.genruntimeconfig.cache
+R:\KhaI-Angelok\Cross-platform\LR1\LR1CrossPlatform\L1Task3\obj\Release\net6.0\ref\L1Task3.dll
