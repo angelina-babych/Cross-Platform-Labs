@@ -1,0 +1,17 @@
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\bin\Debug\net6.0-windows\LR2CrossPlatform.exe
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\bin\Debug\net6.0-windows\LR2CrossPlatform.deps.json
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\bin\Debug\net6.0-windows\LR2CrossPlatform.runtimeconfig.json
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\bin\Debug\net6.0-windows\LR2CrossPlatform.dll
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\bin\Debug\net6.0-windows\LR2CrossPlatform.pdb
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\obj\Debug\net6.0-windows\LR2CrossPlatform.csproj.AssemblyReference.cache
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\obj\Debug\net6.0-windows\LR2CrossPlatform.csproj.GenerateResource.cache
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\obj\Debug\net6.0-windows\LR2CrossPlatform.GeneratedMSBuildEditorConfig.editorconfig
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\obj\Debug\net6.0-windows\LR2CrossPlatform.AssemblyInfoInputs.cache
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\obj\Debug\net6.0-windows\LR2CrossPlatform.AssemblyInfo.cs
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\obj\Debug\net6.0-windows\LR2CrossPlatform.csproj.CoreCompileInputs.cache
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\obj\Debug\net6.0-windows\LR2CrossPlatform.dll
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\obj\Debug\net6.0-windows\refint\LR2CrossPlatform.dll
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\obj\Debug\net6.0-windows\LR2CrossPlatform.pdb
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\obj\Debug\net6.0-windows\LR2CrossPlatform.genruntimeconfig.cache
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\obj\Debug\net6.0-windows\ref\LR2CrossPlatform.dll
+R:\KhaI-Angelok\Cross-platform\LR2\LR2CrossPlatform\LR2CrossPlatform\obj\Debug\net6.0-windows\LR2CrossPlatform.LR2Form.resources

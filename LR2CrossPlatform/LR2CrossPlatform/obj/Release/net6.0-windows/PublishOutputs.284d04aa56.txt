@@ -1,0 +1,5 @@
+R:\KhaI-Angelok\LR2-output\LR2CrossPlatform.exe
+R:\KhaI-Angelok\LR2-output\LR2CrossPlatform.dll
+R:\KhaI-Angelok\LR2-output\LR2CrossPlatform.deps.json
+R:\KhaI-Angelok\LR2-output\LR2CrossPlatform.runtimeconfig.json
+R:\KhaI-Angelok\LR2-output\LR2CrossPlatform.pdb
